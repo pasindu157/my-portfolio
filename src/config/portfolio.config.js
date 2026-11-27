@@ -29,7 +29,7 @@ export const PERSONAL = {
     "Building clean, responsive frontend applications and studying data science — turning ideas into intuitive digital experiences.",
 
   // Availability text shown in the Contact section
-  location: "Available Worldwide · Remote & On-Site",
+  location: "Available Worldwide · Remote",
 
   // Your contact email (shown in Contact section with a copy button)
   email: "nexoradigitalway@gmail.com",
