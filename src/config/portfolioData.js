@@ -16,7 +16,7 @@ import {
   SERVICES,
   SKILLS,
   TIMELINE,
-} from '../config/portfolio.config.js';
+} from './portfolio.config.js';
 
 // Build the PROFILE object that components import
 export const PROFILE = {

@@ -32,13 +32,13 @@ export const PERSONAL = {
   location: "Available Worldwide · Remote & On-Site",
 
   // Your contact email (shown in Contact section with a copy button)
-  email: "youremail@example.com",
+  email: "nexoradigitalway@gmail.com",
 
   // Your GitHub profile URL
-  github: "https://github.com/yourusername",
+  github: "https://github.com/pasindu157",
 
   // Your LinkedIn profile URL
-  linkedin: "https://linkedin.com/in/yourusername",
+  linkedin: "https://www.linkedin.com/in/pasindu-herath-077697250/",
 };
 
 // ─────────────────────────────────────────────────────────────
